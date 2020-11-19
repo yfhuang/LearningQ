@@ -1,4 +1,4 @@
-Pipeline of genome mapping by bowtie2
+**Pipeline of genome mapping by bowtie2**
 
 1. Build index for reference genome
   bowtie2-build reference_genome.fasta reference_genome
