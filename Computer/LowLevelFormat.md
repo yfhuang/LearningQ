@@ -1,4 +1,5 @@
 **Disk low level format**
 By HDD brand
-1. Seagate
-2. Western Digital [Link to Western Digital!](https://www.westerndigital.com/)
+1. [Seagate](https://www.seagate.com/)
+
+2. [Western Digital](https://www.westerndigital.com/)
