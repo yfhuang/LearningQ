@@ -3,7 +3,7 @@
 Venn diagram is a graph representation widely used in teaching elementary set theory. If you are interesting in the fundamental theory, you can read this page, "a survey of Venn diagram". In bioinformatics, Venn diagram is the first choice if you want to count and visualize the overlap between groups of genes . In this post, I am trying to list, catalog and rank those tools to generate Venn diagram.  In addition, this post will be updated with latest papers or tools published.  
 
 First, if you are interesting in the origin of Venn diagram, the following papers for your reference.
-1. John Venn, "On the diagrammatic and mechanical representation of propositions and reasonings," Philosophical Magazine Series 5, Volume 10, Issue 59, 1880 [doi](http://dx.doi.org/10.1080/14786448008626877)
+1. John Venn, "On the diagrammatic and mechanical representation of propositions and reasonings," Philosophical Magazine Series 5, Volume 10, Issue 59, 1880 [[doi](http://dx.doi.org/10.1080/14786448008626877)]
 1. John Venn, "Symbolic logic," Macmillan, London, 1881 [pdf](http://archive.org/details/symboliclogic00venniala)
 
 Second, I will list online tools for biologists and bioinformaticians.
