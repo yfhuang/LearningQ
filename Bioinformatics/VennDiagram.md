@@ -4,18 +4,18 @@ Venn diagram is a graph representation widely used in teaching elementary set th
 
 First, if you are interesting in the origin of Venn diagram, the following papers for your reference.
 1. John Venn, "On the diagrammatic and mechanical representation of propositions and reasonings," Philosophical Magazine Series 5, Volume 10, Issue 59, 1880 [[doi](http://dx.doi.org/10.1080/14786448008626877)]
-1. John Venn, "Symbolic logic," Macmillan, London, 1881 [pdf](http://archive.org/details/symboliclogic00venniala)
+1. John Venn, "Symbolic logic," Macmillan, London, 1881 [[pdf](http://archive.org/details/symboliclogic00venniala)]
 
 Second, I will list online tools for biologists and bioinformaticians.
-1. Venny, at maximum 4 lists [url]
-1. Draw custom Venn diagram, at maximum 30 lists [url]
-1. Venn diagram generator, at maximum 4 lists [url]
-1. Gene List Venn Diagram, at maximum 3 lists [url]
-1. Another Gene List Venn Diagram, at maximum 3 list [url]
-1. Venn Diagram Maker [url]
-1. Venn Diagram Generator by Whitehead Institute for Biomedical Research [url]
-1. Venn Diagram, at maximum 3 list [url]
-1. BioVenn [url | doi]
+1. Venny, at maximum 4 lists [[url](http://bioinfogp.cnb.csic.es/tools/venny/)]
+1. Draw custom Venn diagram, at maximum 30 lists [[url](http://bioinformatics.psb.ugent.be/webtools/Venn/)]
+1. Venn diagram generator, at maximum 4 lists [[url](https://www.lucidchart.com/pages/tour/venn_diagram_generator)]
+1. Gene List Venn Diagram, at maximum 3 lists [[url](http://simbioinf.com/mcbc/applications/genevenn/genevenn.htm)]
+1. Another Gene List Venn Diagram, at maximum 3 list [[url](http://genevenn.sourceforge.net/)]
+1. Venn Diagram Maker [[url](http://creately.com/Draw-Venn-Diagrams-Online)]
+1. Venn Diagram Generator by Whitehead Institute for Biomedical Research [[url](http://jura.wi.mit.edu/bioc/tools/venn.php)]
+1. Venn Diagram, at maximum 3 list [[url](http://www.bioinformatics.lu/venn.php)]
+1. BioVenn [[url](http://www.cmbi.ru.nl/cdd/biovenn/index.php) | [doi](http://dx.doi.org/10.1186/1471-2164-9-488)]
 1. or you can google "venn diagram generator" to find more.
 
 Third, I will list programming language modules for Venn diagram customization.
