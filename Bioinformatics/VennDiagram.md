@@ -19,15 +19,15 @@ Second, I will list online tools for biologists and bioinformaticians.
 1. or you can google "venn diagram generator" to find more.
 
 Third, I will list programming language modules for Venn diagram customization.
-1. Vennerable, Venn diagram in R [url]
-1. VennDiagram, Venn and Euler diagrams in R [url | doi]
-1. pyvenn, Venn diagrams for Python [url]
-1. matplotlib-venn, Python functions for plotting area-proportional two- and three-way Venn diagram in matplotlib [url]
+1. Vennerable, Venn diagram in R [[url](https://r-forge.r-project.org/projects/vennerable/)]
+1. VennDiagram, Venn and Euler diagrams in R [[url](http://cran.r-project.org/web/packages/VennDiagram/index.html) | [doi](http://dx.doi.org/10.1186/1471-2105-12-35)]
+1. pyvenn, Venn diagrams for Python [[url](https://code.google.com/p/pyvenn/)]
+1. matplotlib-venn, Python functions for plotting area-proportional two- and three-way Venn diagram in matplotlib [[url](https://pypi.python.org/pypi/matplotlib-venn)]
 
 Fourth, I will list software for drawing Venn diagram.
-1. VennDiagramPlotter [url]
-1. VennPlex [url | doi]
-1. VennMaster [url | doi]
-1. VENNTURE [url | doi]
-1. Generalized Venn Diagrams [url | doi]
-1. EDGAR [url | doi]
+1. VennDiagramPlotter [[url](http://omics.pnl.gov/software/VennDiagramPlotter.php)]
+1. VennPlex [[url](http://www.irp.nia.nih.gov/bioinformatics/vennplex.html) | [doi](http://dx.doi.org/10.1371/journal.pone.0053388)]
+1. VennMaster [[url](http://www.informatik.uni-ulm.de/ni/staff/HKestler/vennm/doc.html) | [doi](http://dx.doi.org/10.1186/1471-2105-9-67)]
+1. VENNTURE [[url](http://www.irp.nia.nih.gov/branches/lci/nia_bioinformatics_software.html) | [doi](http://dx.doi.org/10.1371/journal.pone.0036911)]
+1. Generalized Venn Diagrams [[url](http://www.informatik.uni-ulm.de/ni/staff/HKestler/vennm/) | [doi](http://dx.doi.org/10.1093/bioinformatics/bti169)]
+1. EDGAR [[url](http://edgar.cebitec.uni-bielefeld.de/) | [doi](http://dx.doi.org/10.1186/1471-2105-10-154)]
