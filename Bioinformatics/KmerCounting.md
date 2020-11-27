@@ -1,4 +1,4 @@
-**K-mer counting tool for large K**
+**K-mer counting tool for large K**  
 In next-generation sequencing, k-mer counting is a essential tool to glance through the complexity of genome and the quality of sequencing library. Recently, most k-mer statistics tools only count k-mer sub-sequence with small k up to 31. Jellyfish, tallymer in genometools and meryl in wgs-assembler are most used. With the growth of sequencing technology, sequencers can output reads with more than hundred bps in length. However, demand on a k-mer counting tool with large k value is still urgently. So far, we can find out two k-mer counting tools with large k value up to 63: BFCounter and Turtle.  
 
 **References**
