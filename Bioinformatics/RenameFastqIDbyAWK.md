@@ -1,4 +1,5 @@
 **Simple way to rename FastQ ID by AWK**  
+
 There is a simple way to rename FastQ ID by AWK defined as follow.  
 
 `awk '{if(NR%4==1) $0=sprintf("%s/1",$0); print;}' input.fastq`
